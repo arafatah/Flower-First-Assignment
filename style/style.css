@@ -220,3 +220,32 @@ body {
     margin-left: 603px;
     margin-top: 100px;
 }
+
+.section3-title{
+    margin-top: 128px;
+    text-align: center;
+}
+
+.sec-title-3{
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.sec-description-3{
+    margin-top: 24px;
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.img-container{
+    
+}
+
