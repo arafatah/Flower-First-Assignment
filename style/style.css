@@ -81,6 +81,7 @@ body {
 .flower-container{
     display: flex;
     justify-content: center;
+    margin-top: 48px;
     
 }
 
@@ -122,3 +123,52 @@ body {
     background-position: center bottom;
 
 }
+
+.picture-title{
+    display: flex;
+    margin-left: 381px;
+    margin-top: 32px;
+}
+
+.title-1{
+    
+    margin-right: 295px;
+    position: relative;
+}
+
+.title-2{
+    position: relative;
+    margin-right: 440px;
+    
+}
+
+/* feature end */
+
+/* optional start */
+
+.optional{
+    
+    width: 1280px;
+    height: 220px;
+    margin-left: 240px;
+    margin-top: 195px;
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    padding: 86px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.sup-dis{
+    text-align: center;
+    margin-top: 86px;
+
+}
+
+.title {
+    margin-top: 5px;
+}
+/* optional end */
+
+/* section-2 start */
