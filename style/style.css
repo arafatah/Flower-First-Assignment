@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+}
+
+body {
+    font-family: 'Lato', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.section-A {
+    width: 1920px;
+    height: 850px;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    background: url(../image/pngwing\ 10.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-color: #FCEEF1;
+
+}
+
+.header-motivation{
+    padding-top: 197px;
+    padding-left: 240px;
+    color: #272727;
+    font-size: 80px;
+    font-weight: 800
+}
+
+.header-description{
+    padding-top: 32px;
+    padding-left: 240px;
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.header-btn{
+    margin-top: 32px;
+    margin-left: 240px;
+    margin-bottom: 147px;
+    width: 177px;
+    height: 64px;
+    font-size: 20px;
+    font-weight: 700;
+    border-radius: 8px;
+    background: #E55473;
+    border-style: none;
+    color: white;
+}
+
+.header-pic{
+
+}
