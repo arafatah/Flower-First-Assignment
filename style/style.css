@@ -221,6 +221,9 @@ body {
     margin-top: 100px;
 }
 
+/* End here */
+
+/* section 3 start here */
 .section3-title{
     margin-top: 128px;
     text-align: center;
@@ -245,7 +248,18 @@ body {
     line-height: 30px;
 }
 
+/* End here */
+
+/* Img section */
 .img-container{
+    display: flex;
+    justify-content: center;
     
+
 }
 
+.sec-4{
+    margin-right: 24px;
+}
+
+/* Img section end here */
