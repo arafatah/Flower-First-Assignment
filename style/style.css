@@ -3,23 +3,22 @@
 }
 
 body {
-    font-family: 'Lato', sans-serif;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Lato';
 }
+
+/* header section */
 
 .section-A {
     width: 1920px;
     height: 850px;
-    font-family: 'Lato', sans-serif;
-    font-family: 'Open Sans', sans-serif;
     background: url(../image/pngwing\ 10.png);
     background-repeat: no-repeat;
-    background-position: right;
+    background-position: right 50px;
     background-color: #FCEEF1;
-
+    background-position-x: 82%;
 }
 
-.header-motivation{
+.header-motivation {
     padding-top: 197px;
     padding-left: 240px;
     color: #272727;
@@ -27,7 +26,7 @@ body {
     font-weight: 800
 }
 
-.header-description{
+.header-description {
     padding-top: 32px;
     padding-left: 240px;
     color: rgba(39, 39, 39, 0.60);
@@ -36,7 +35,7 @@ body {
     line-height: 30px;
 }
 
-.header-btn{
+.header-btn {
     margin-top: 32px;
     margin-left: 240px;
     margin-bottom: 147px;
@@ -50,6 +49,76 @@ body {
     color: white;
 }
 
-.header-pic{
+
+/* header section done here */
+
+/* feature section */
+
+.section-feature {
+    margin-top: 178px;
+}
+
+.feature-title {
+    text-align: center;
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+
+
+}
+
+.feature-description {
+    text-align: center;
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    margin-top: 24px;
+}
+
+.flower-container{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.flower-1 {
+    width: 464px;
+    height: 538px;
+    flex-shrink: 0;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    margin-right: 24px;
+    background-image: url(../image/pngwing\ 6.png);
+    background-repeat: no-repeat;
+    background-position: center bottom;
+
+}
+
+.flower-2 {
+    width: 464px;
+    height: 538px;
+    flex-shrink: 0;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+    margin-right: 24px;
+    background-image: url(../image/pngwing\ 5.png);
+    background-repeat: no-repeat;
+    background-position: center bottom;
+
+
+}
+
+.flower-3 {
+    width: 464px;
+    height: 538px;
+    flex-shrink: 0;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+    background-image: url(../image/pngwing\ 7.png);
+    background-repeat: no-repeat;
+    background-position: center bottom;
 
 }
